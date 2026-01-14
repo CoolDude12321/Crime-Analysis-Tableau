@@ -28,7 +28,7 @@ All dashboard views are designed to be intuitive and insight-driven.
 - **Crime Analysis.twb** – Tableau workbook containing the interactive dashboard  
 - **Crime_Analysis_Dataset.xls** – Dataset used for building the dashboard  
 - **Crime Analysis Screenshots.pdf** – Consolidated PDF containing dashboard screenshots
-- **Problem Statement** - Complete problem statement of the project 
+- **Problem Statement.pdf** - Complete problem statement of the project 
 - **README.md** – Project documentation  
 
 ---
